@@ -45,7 +45,7 @@ public class Gui {
 		JMenuBar menuBar = new JMenuBar();
 		frame.setJMenuBar(menuBar);
 		
-		JMenu mnNewMenu = new JMenu("Kupus");
+		JMenu mnNewMenu = new JMenu("Gra");
 		menuBar.add(mnNewMenu);
 		
 		JMenuItem mntmNewMenuItem = new JMenuItem("Spremi");
